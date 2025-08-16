@@ -1,0 +1,34 @@
+# Nightmare Nexus - Requirements
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required!
+#
+# Minimum Python version: 3.7+
+# 
+# Standard library modules used:
+# - tkinter (GUI framework - usually included with Python)
+# - json (data serialization)
+# - os (operating system interface)
+# - random (random number generation)
+# - time (time-related functions)
+# - threading (threading support)
+# - datetime (date and time handling)
+# - hashlib (secure hash algorithms)
+# - uuid (UUID generation)
+# - re (regular expressions)
+# - typing (type hints support)
+
+# Optional: If you want to create executable files
+# pyinstaller>=4.0
+# auto-py-to-exe>=2.0.0
+
+# Optional: For development and testing
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+
+# Note: tkinter comes pre-installed with most Python distributions
+# If you're on Linux and tkinter is missing, install it with:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# CentOS/RHEL/Fedora: sudo yum install tkinter (or dnf install python3-tkinter)
+# Arch Linux: sudo pacman -S tk

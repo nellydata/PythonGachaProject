@@ -1,4 +1,4 @@
-# Horror Gacha Facility RPG
+# NIGHTMARE NEXUS
 
 A text-based gacha RPG featuring horror and creepypasta characters.
 

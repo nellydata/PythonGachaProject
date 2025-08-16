@@ -4,7 +4,7 @@ Nightmare Nexus - Enhanced Single-Window GUI
 Complete single-window interface with enhanced UX and proper navigation
 
 CHANGELOG:
-# v1.2 Battle System Enhancement Edition - December 2024
+# v1.2 Battle System Enhancement Edition - August 16, 2025
 + Persistent battle preferences (auto-battle, speed settings)
 + Enhanced multi-wave boss battles with improved scaling 
 + Advanced status effect system with proper stacking
@@ -9809,3 +9809,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

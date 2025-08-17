@@ -52,6 +52,7 @@ This document tracks known issues, bugs, and limitations in Nightmare Nexus v1.2
 **Workaround:**
 - Retreat and restart the boss battle if wave loads empty
 - Use single battles instead of multi-battle for boss content
+- Turn on auto battle if no enemies or actions load
 
 **Status:** 🔧 *Fix planned for v1.3*
 
@@ -220,3 +221,4 @@ This is an educational project demonstrating game development concepts. While we
 ---
 
 *Found a new bug? Help us improve Nightmare Nexus by reporting it! 🕷️*
+
